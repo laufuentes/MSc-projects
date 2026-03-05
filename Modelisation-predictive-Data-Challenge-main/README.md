@@ -1,0 +1,1 @@
+En Master 1 de Mathématiques et Intelligence Artificielle on a travaillé sur un projet de modélisation prédictive. L'idée étant de créer un modèle qui puisse prédire jour par jour la consommation française en énergie, pendant la période du Covid, à l'aide d'une base de données recueillant des informations depuis 2012. Vous pouvez trouver ci-joint le rapport issu de notre travail.
