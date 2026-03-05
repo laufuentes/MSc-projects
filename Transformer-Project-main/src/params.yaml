@@ -1,0 +1,18 @@
+model:
+  N: 2
+  batch_size: 128
+  d_ff: 256
+  d_model: 128
+  h: 2
+  seq_length: 256
+paths:
+  data: ../online_dataset/imdb_processed.csv
+  weights: ../saved_models/
+testing:
+  label: 0
+  new_input: this is a bad movie.
+training:
+  amount_of_data: 0.2
+  device: mps
+  epochs: 5
+  learning_rate: 0.001

@@ -1,0 +1,11 @@
+pre-commit
+scikit-learn
+torchtext~=0.14.1
+transformers~=4.26.0
+pandas~=1.5.3
+torch~=1.13.1
+nltk~=3.8.1
+numpy~=1.24.2
+tqdm~=4.64.1
+PyYAML~=6.0
+streamlit~=1.19.0
